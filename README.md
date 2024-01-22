@@ -1,2 +1,2 @@
 # de-zoomcamp
-Personal reposit
+Personal repository for the Data Engineering Zoomcamp by DataTalksClub.
